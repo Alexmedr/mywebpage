@@ -32,7 +32,6 @@ var students = [
         },
         career: "IDYGS"
     },
-    var students = [
     {
         lname: "Villicaña",
         name: "Adolfo",
