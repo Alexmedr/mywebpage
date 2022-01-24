@@ -20,7 +20,18 @@ var students = [
             day: 17
         },
         career: "IDYGS"
-    }
+    },
+    {
+        lname: "Resendiz",
+        name: "Homero",
+        age: 22,
+        birthday: {
+            year: 1999,
+            month: "September",
+            day: 11
+        },
+        career: "IDYGS"
+    },
 ]
 
 var table = document.getElementsByTagName("table")[0];
