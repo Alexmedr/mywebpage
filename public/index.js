@@ -32,6 +32,17 @@ var students = [
         },
         career: "IDYGS"
     },
+    {
+        lname: "Villicaña",
+        name: "Adolfo",
+        age: 24,
+        birthday: {
+            year: 1996,
+            month: "October",
+            day: 11
+        },
+        career: "IDYGS"
+    },
 ]
 
 var table = document.getElementsByTagName("table")[0];
