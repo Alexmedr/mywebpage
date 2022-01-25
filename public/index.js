@@ -35,14 +35,14 @@ var students = [
     {
         lname: "Villicaña",
         name: "Adolfo",
-        age: 24,
+        age: 26,
         birthday: {
-            year: 1996,
+            year: 1995,
             month: "October",
-            day: 11
+            day: 11,
         },
-        career: "IDYGS"
-    },
+        Career: "IDYGS"
+    }
 ]
 
 var table = document.getElementsByTagName("table")[0];
